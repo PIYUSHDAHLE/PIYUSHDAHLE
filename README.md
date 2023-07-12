@@ -1,9 +1,9 @@
 
   ![banner](https://github.com/PIYUSHDAHLE/PIYUSHDAHLE/assets/57090813/e3b7cd6a-ed89-4a6e-8d39-5a2ae4db9e56)
-<p align="center">
 ## 💫 About Me:
+<p align="center">
 Hi, I'm Piyush Dahle from Balaghat.<br><br>I have completed my graduation in the year from BUIT College bhopal in B.E. with stream CSE.<br><br>Currently, I'm learning the Java Full Stack Development from Ashok IT in hyderabad.<br><br>As a fresher i'm looking for a job.<br><br>
-
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/piyush.dahle/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/piyush_dahle/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-dahle-30b68a196/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC_T8qV2x8fI7iK-iDEc-RyA) 
 
@@ -20,6 +20,6 @@ Hi, I'm Piyush Dahle from Balaghat.<br><br>I have completed my graduation in the
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PIYUSHDAHLE&icon=0&color=0)](https://visitcount.itsvg.in)
-</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
