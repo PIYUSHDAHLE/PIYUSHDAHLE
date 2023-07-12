@@ -1,4 +1,3 @@
- <div align=”center”> [ 
 ![giphy](https://github.com/PIYUSHDAHLE/PIYUSHDAHLE/assets/57090813/b4cb10c8-2f26-41be-863f-c8de0bd3143e)
  
 ## 💫 About Me:
@@ -19,4 +18,4 @@ Hi, I'm Piyush Dahle from Balaghat.<br><br>I have completed my graduation in the
 [![](https://visitcount.itsvg.in/api?id=PIYUSHDAHLE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- ]</div>
+
