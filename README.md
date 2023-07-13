@@ -26,10 +26,10 @@ Hi, I'm Piyush Dahle from Balaghat.<br><br>I have completed my graduation in the
 </div>
 
 ###
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHDAHLE&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
+   
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHDAHLE&theme=dark&hide_border=false" height="220" alt="streak graph"  />
+  </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PIYUSHDAHLE&icon=0&color=0)](https://visitcount.itsvg.in)
