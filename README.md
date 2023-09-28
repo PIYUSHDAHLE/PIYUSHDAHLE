@@ -26,14 +26,7 @@ Hi, I'm Piyush Dahle from Balaghat.<br><br>I have completed my graduation in the
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PIYUSHDAHLE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
    
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PIYUSHDAHLE&theme=dark&hide_border=false" height="220" alt="streak graph"  />
-  </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=PIYUSHDAHLE&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
