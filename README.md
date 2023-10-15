@@ -1,5 +1,5 @@
 
-  ![banner](https://github.com/PIYUSHDAHLE/PIYUSHDAHLE/assets/57090813/e3b7cd6a-ed89-4a6e-8d39-5a2ae4db9e56)
+
 ## 💫 About Me:
 <p align="center">
 Hi, I'm Piyush Dahle from Balaghat, M.P., Bharat.<br><br>I have completed my graduation in the year of 2023 from BUIT College bhopal in B.E. with stream CSE.<br><br>Currently, I'm learning the Full Stack Development from Internshala.<br><br>
