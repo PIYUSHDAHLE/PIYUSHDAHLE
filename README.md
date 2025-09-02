@@ -3,7 +3,7 @@
 
 ## 💫 About Me:
 <p align="center">
-Hi, I'm Piyush Dahle from Balaghat, M.P., Bharat.<br><br>I have completed my graduation in the year of 2023 from BUIT College bhopal in B.E. with stream CSE.<br><br>Currently, I'm learning the Full Stack Development from Internshala.<br><br>
+Hi, I'm Piyush Dahle from Balaghat, M.P., Bharat.<br><br>I have completed my graduation in the year of 2023 from BUIT College bhopal in B.E. with stream CSE.<br><br>Currently, I'm learning the Full Stack Development.<br><br>
 </p>
   
 ## 🌐 Socials:
