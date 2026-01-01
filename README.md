@@ -2,7 +2,7 @@
 
 
 ## 💫 About Me:
-<p align="center">
+<p align="left">
 I am Piyush Dahle, a passionate Frontend Developer with a strong focus on UI/UX and modern web technologies. I specialize in building responsive, scalable, and user-friendly web applications using React.js, TypeScript, Tailwind CSS, and GSAP.
 
 Currently working at Quantified Ante, I have hands-on experience developing real-world products such as web platforms, dashboards, landing pages, and interactive user interfaces. I enjoy transforming ideas and designs into clean, efficient, and high-performance code.
